@@ -13,3 +13,8 @@ Tools Used
 - **Framework:** .NET Framework (Windows Forms)  
 - **IDE:** Visual Studio  
 - **Version Control:** Git & GitHub 
+
+How to Run the Application
+1. **Clone or download** the project repository:
+   ```bash
+   git clone 
