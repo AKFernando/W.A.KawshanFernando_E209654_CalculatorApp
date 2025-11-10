@@ -17,4 +17,4 @@ Tools Used
 How to Run the Application
 1. **Clone or download** the project repository:
    ```bash
-   git clone 
+   git clone https://github.com/AKFernando/W.A.KawshanFernando_E209654_CalculatorApp.git
