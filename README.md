@@ -1,5 +1,8 @@
 # W.A.KawshanFernando_E209654_CalculatorApp
 
+**Objective:** To design and implement a simple calculator that performs basic arithmetic
+operations using a Windows Form Application in C#.
+
 Features
 - Perform **Addition**, **Subtraction**, **Multiplication**, and **Division**  
 - Accepts **two numbers** as input  
